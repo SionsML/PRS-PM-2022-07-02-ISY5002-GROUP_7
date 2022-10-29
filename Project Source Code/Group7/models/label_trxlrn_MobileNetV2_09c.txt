@@ -1,0 +1,9 @@
+normaldriving
+right-texting
+right-talking-phone
+left-texting
+left-talking-phone
+operating-on-radio
+drinking
+reaching-behind
+talking-to-passenger
