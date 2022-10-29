@@ -1,0 +1,14 @@
+tflite-runtime
+opencv-python
+numpy
+scipy
+pillow
+imutils
+face_recognition
+pygame
+glob
+tensorflow
+opencv-python
+gpiozero
+Pillow
+
