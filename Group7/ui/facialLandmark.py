@@ -226,7 +226,7 @@ def facialLandmarkRecognition(known_face_encodings):
             frame = cv2.flip(frame, 0) #-1 the actual
 
         #authenticate whether driver face is within the frame
-        if constant.is_using_camera:
+        if constant.is_using_camera and known_face_encodings:
             is_driver_exists = faceRecognation.perform_face_recognition(image,known_face_encodings)
         else:
             is_driver_exists = True
