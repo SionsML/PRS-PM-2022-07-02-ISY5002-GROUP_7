@@ -14,7 +14,7 @@ This project intends to build a complete working prototype for a driver alertnes
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
 | Official Full Name  | Student ID (MTech Applicable)  |  Email (Optional) |
-| :------------ |:---------------:| :-----| :-----|
+| :------------ |:---------------:| :-----|
 | Hwang Sion | A0249263Y |  e0938868@u.nus.edu |
 | Prerak Agarwal | A0116711R |  e0938637@u.nus.edu |
 | Santi- | A0249294R |  e0938899@u.nus.edu |
