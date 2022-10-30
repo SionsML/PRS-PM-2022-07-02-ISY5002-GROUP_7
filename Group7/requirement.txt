@@ -11,4 +11,5 @@ tensorflow
 opencv-python
 gpiozero
 Pillow
-
+os
+time
