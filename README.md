@@ -46,7 +46,7 @@ The document will contain below infromation
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`Refer to project report at Github Folder: ProjectReport`
+`Refer to project report at Github Folder: Project Report`
 
 
 ---
@@ -55,6 +55,7 @@ The document will contain below infromation
 `Refer to Github Folder: Miscellaneous`
 
 ### Data
+`Refer to project report at Github Folder: Data`
 
 ### Data Preparation
 
