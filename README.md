@@ -1,7 +1,7 @@
 ## SECTION 1 : PRS-PM-2022-07-02-ISY5002-GROUP_7
 ## Driver Alertness Detection System
 
-<img src="Miscellaneous/Img/cover.png"
+<img src="Supporting/cover.png"
      style="float: left; margin-right: 0px;" />
 
 ---
