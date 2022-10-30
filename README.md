@@ -26,9 +26,8 @@ The main focus will be develop a system that helps to improve the safety of driv
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-System technical design explanation:
-<img src="Miscellaneous/Img/cover.png" style="float: left; margin-right: 0px;" />
-https://https://github.com/SionsML/PRS-PM-2022-07-02-ISY5002-GROUP_7
+Watch here !!!
+https://youtu.be/mOkjhU9pcKc
 
 ---
 
