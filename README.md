@@ -33,15 +33,14 @@ https://youtu.be/mOkjhU9pcKc
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to "User Manual.pdf" in project report folder at Github Folder: ProjectReport`
+`Refer to "Installation & User Guide_Group 7_Driver Alertness Detection System.pdf" in project report folder at Github Folder: Project Report`
 
 The document will contain below infromation
 
-### [ 1 ] App User Manual
+### [ 1 ] User Manual
 
-### [ 2 ] APK installation & build
+### [ 2 ] Installation & build
 
-### [ 3 ] Engine installation & build
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
@@ -50,9 +49,9 @@ The document will contain below infromation
 
 
 ---
-## SECTION 7 : MISCELLANEOUS
+## SECTION 7 : Supporting
 
-`Refer to Github Folder: Miscellaneous`
+`Refer to Github Folder: Supporting`
 
 ### Data
 `Refer to project report at Github Folder: Data`
